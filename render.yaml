@@ -8,9 +8,9 @@ services:
     autoDeploy: true
     envVars:
       - key: SUDO
-        sync: false
+        sync: 24174852543
       - key: PREFIX
-        sync: false
+        sync: '.'
       - key: STICKER_PACKNAME
         value: ',LyFE'
       - key: RMBG_KEY
@@ -28,13 +28,13 @@ services:
       - key: RENDER_API_KEY
         sync: false
       - key: ANTI_DELETE
-        value: 'off'
+        value: 'on'
       - key: AUTO_STATUS_VIEW
         value: 'false'
       - key: SEND_READ
         value: 'false'
       - key: SESSION_ID
-        sync: false
+        sync: 5_8_0556_a17f_2357
       - key: PORT
         value: '3000'
       - key: DATABASE_URL
