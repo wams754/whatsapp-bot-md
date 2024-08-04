@@ -17,7 +17,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "2474852543"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -27,7 +27,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "5_8_0556_a17f_2357"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
@@ -50,7 +50,7 @@
     "LANGUAG": {
       "description": "Default Language for tts or trt",
       "required": false,
-      "value": "en"
+      "value": "fr"
     },
     "WARN_LIMIT": {
       "description": "Maximum number of wanings to a person.",
